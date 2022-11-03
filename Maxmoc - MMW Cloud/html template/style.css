@@ -1,0 +1,141 @@
+.parent {
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+}
+
+.sidenav {
+    width: 20%;
+    background-color:blueviolet;
+}
+.sidenav__table{
+    height: 100%;
+    width: 100%;
+}
+.sidenav__header{
+    background-color:blueviolet;
+    vertical-align: top;
+ }
+.sidenav__content td{
+height:50px;
+}
+.main {
+    width: 80%;
+    background-color:white;
+}
+.main__table {
+    height: 100%;
+    width: 100%;
+}
+.main__header-row {
+    height: 50px;
+    background-color:white;
+}
+
+.main__content-row {
+    height: 90%; }
+
+.content__header-row{
+    height:10%;
+    width:100%;
+    background-color: white;
+
+
+}
+.cards-row1{
+
+height: 100px;
+width: 100%;
+background-color: white;
+}
+ 
+
+.cards-row2{
+
+   height: 100px;
+   width: 100%;
+   background-color: white;
+   }
+
+   
+.cards-row3{
+
+   height: 100px;
+   width: 100%;
+   background-color: white;
+   }
+    
+   
+.cards-row4{
+
+   height: 100px;
+   width: 100%;
+   background-color: white;
+   }
+   
+ .table-1{
+    width: 40px;
+    height: 100%;
+    background-color:blue;
+ }
+ .col_6{
+    padding-left: 170%;
+ }
+ 
+ .col_7{
+    padding-left: 250%;
+ }
+ 
+ .col_8{
+    padding-left: 255%;
+ }
+ 
+ .col_9{
+    padding-left: 260%;
+ }
+
+ .col_10{
+    padding-left: 1%;
+ }
+
+ .col_11{
+    padding-left: 13%;
+ }
+ .col_12{
+    padding-left: 18%;
+ }
+ .col_13{
+    padding-left: 14%;
+ }
+ .col_14{
+    padding-left: 5%;
+ }
+
+ .col_15{
+   background-color: coral;
+ }
+ .col_16{
+   background-color: coral;
+ }
+ .col_17{
+   background-color: coral;
+ }
+ .col_18{
+   background-color: coral;
+ }
+ .col_19{
+   background-color: coral;
+ }
+ .col_20{
+   background-color: coral;
+ }
+ .col_21{
+   background-color: coral;
+ }
+ .col_22{
+   background-color: coral;
+ }
+ .col_23{
+   background-color: coral;
+ }
+  
